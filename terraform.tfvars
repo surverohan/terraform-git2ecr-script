@@ -1,0 +1,8 @@
+AWS_ACCOUNT_ID=063537312074
+AWS_REGION="us-east-1"
+AWS_ACCESS_KEY="AKIAQ5SY6OFFOGBEN4PS"
+AWS_SECRET_KEY="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"
+IMAGE_REPO_NAME="book-api"
+AWS_S3_BUCKET_NAME="book-api-063537312074"
+URL_REPO="https://github.com/surverohan/terraform-docker-ecr.git"
+
